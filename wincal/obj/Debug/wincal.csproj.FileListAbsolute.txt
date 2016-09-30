@@ -1,0 +1,11 @@
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\bin\Debug\wincal.exe.config
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\bin\Debug\wincal.exe
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\bin\Debug\wincal.pdb
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\obj\Debug\wincal.csprojResolveAssemblyReference.cache
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\obj\Debug\wincal.MainForm.resources
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\obj\Debug\wincal.csproj.GenerateResource.Cache
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\obj\Debug\wincal.exe
+C:\Users\CYRUS\Documents\SharpDevelop Projects\wincal\wincal\obj\Debug\wincal.pdb
+F:\wincal\wincal\bin\Debug\wincal.exe.config
+F:\wincal\wincal\obj\Debug\wincal.exe
+F:\wincal\wincal\obj\Debug\wincal.pdb
